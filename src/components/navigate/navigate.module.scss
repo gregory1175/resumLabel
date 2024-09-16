@@ -1,0 +1,13 @@
+.navbar {
+  height: 100px;
+  z-index: 9999;
+
+  &_wrapper {
+    max-width: 1366px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
